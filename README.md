@@ -1,0 +1,1 @@
+# pluralsight-lab-terraform-azurerm-securestorage
